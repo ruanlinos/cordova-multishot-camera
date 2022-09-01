@@ -157,7 +157,7 @@ cameraExport.getPicture = function (successCallback, errorCallback, options) {
     // return new CameraPopoverHandle();
 };
 
-cameraExport.getTakePhoto = funciton (successCallback, errorCallback, options) {
+cameraExport.getTakePhoto = function (successCallback, errorCallback, options) {
     exec(successCallback, errorCallback, 'Camera', 'getTakePhoto');
     // XXX: commented out
     // re
