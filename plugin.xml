@@ -23,11 +23,11 @@
     id="cordova-plugin-camera"
     version="6.0.1-dev">
     <name>Camera</name>
-    <description>Cordova Camera Plugin</description>
+    <description>Cordova Multishot Camera Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,camera</keywords>
-    <repo>https://github.com/apache/cordova-plugin-camera</repo>
-    <issue>https://github.com/apache/cordova-plugin-camera/issues</issue>
+    <repo>https://github.com/ruanlinos/cordova-multishot-camera</repo>
+    <issue>https://github.com/ruanlinos/cordova-multishot-camera/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=9.0.0"/>
