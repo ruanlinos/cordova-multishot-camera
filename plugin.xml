@@ -90,7 +90,7 @@
         <source-file src="src/android/ExifHelper.java" target-dir="src/multishot/camera" />
         <source-file src="src/android/FileProvider.java" target-dir="src/multishot/camera" />
         <source-file src="src/android/GalleryPathVO.java" target-dir="src/multishot/camera" />
-        <source-file src="src/android/xml/camera_provider_paths.xml" target-dir="res/xml" />
+        <source-file src="src/android/xml/camera_multishot_provider_paths.xml" target-dir="res/xml" />
 
         <preference name="ANDROIDX_CORE_VERSION" default="1.6.+"/>
         <framework src="androidx.core:core:$ANDROIDX_CORE_VERSION" />
